@@ -4,7 +4,7 @@ This repository contains data about GitHub users in Melbourne, who have over 100
 1. users.csv: Contains information about 338 GitHub users in Melbourne with over 100 followers
 2. repositories.csv: Contains information about 29238 public repositories from these users
 # Data Collection
-Data collected using GitHub API
-Date of collection: 2024-10-28
-Only included users with 100+ followers
+1. Data collected using GitHub API
+2. Date of collection: 2024-10-28
+3. Only included users with 100+ followers
 
